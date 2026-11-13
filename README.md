@@ -2,7 +2,7 @@
 
 Windows launcher for the Forma integration in Qwen Desktop.
 
-**Closed source · Official binary releases only.** Forma’s original code is proprietary under the [Forma license](LICENSE.txt). This repository distributes releases and documentation; it does not publish Forma source code. Third-party components retain their own licenses.
+**Closed source · Official binary releases only.** Forma’s original code is proprietary under the [Forma license](LICENSE). This repository distributes releases and documentation; it does not publish Forma source code. Third-party components retain their own licenses.
 
 [Download](https://github.com/formaofficial/forma/releases/latest) · [Quick-start guide](GUIDE.md) · [Discord](https://discord.gg/MqwFSTEdkF)
 
