@@ -1,0 +1,25 @@
+# Forma
+
+Windows launcher for the Forma integration in Qwen Desktop.
+
+Download the Windows installer from [Releases](https://github.com/formaofficial/forma/releases/latest). Install Qwen Desktop 1.0.3 first, then use Forma to install the integration.
+
+## Access
+
+A valid, installation-bound Forma key is required. Keys expire after 24 hours and are rechecked automatically. Qwen launched directly is also gated while the Forma integration is installed. A brief verified lease covers temporary connection problems; expiration locks access without deleting chats.
+
+The publisher's Linkvertise checkpoint is still being connected. Until it is configured, the Get key page explains that setup is pending; it never issues an unverified advertising key. The publisher can issue keys through the protected license service.
+
+## Updates
+
+Forma checks GitHub at startup and every 30 minutes. Update manifests have an Ed25519 signature; the installer size and SHA256 are verified before installation. An available update is downloaded and offers a restart.
+
+## Data
+
+Mailboxes and Qwen account sessions are created on each Windows user profile. Private state uses Windows encryption. Personal accounts, license keys, chats and mailbox passwords are not included in the release.
+
+Read, Confirm and Full access control the integrated local tools. Select the mode appropriate to the task. Qwen server quotas still apply.
+
+## Status
+
+This is an independent, unofficial modification. Windows publisher code signing is not configured; Windows may show an unverified-publisher warning. Cryptographic update signing and archive integrity are separate protections. No desktop software is guaranteed uncrackable or bug-free.
