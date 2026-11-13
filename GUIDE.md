@@ -66,4 +66,4 @@ and use the same browser for the whole trip. **Update download fails:** retry
 with a working connection; do not replace verified files with unofficial builds.
 
 Forma is an independent, unofficial modification. Windows publisher code signing
-is not configured. [License](LICENSE.txt).
+is not configured. [License](LICENSE).
