@@ -2,6 +2,10 @@
 
 Windows launcher for the Forma integration in Qwen Desktop.
 
+**Closed source · Official binary releases only.** Forma’s original code is proprietary under the [Forma license](LICENSE.txt). This repository distributes releases and documentation; it does not publish Forma source code. Third-party components retain their own licenses.
+
+[Download](https://github.com/formaofficial/forma/releases/latest) · [Quick-start guide](GUIDE.md) · [Discord](https://discord.gg/MqwFSTEdkF)
+
 Download the Windows installer from [Releases](https://github.com/formaofficial/forma/releases/latest). Install Qwen Desktop 1.0.3 first, then use Forma to install the integration.
 
 ## Access
@@ -26,5 +30,5 @@ This is an independent, unofficial modification. Windows publisher code signing 
 
 ## Community and support
 
-Join the [Forma Discord](https://discord.gg/MqwFSTEdkF) for official downloads, key instructions, announcements and support. Read the rules and react in the verify channel to unlock community chat and voice. Update notifications are optional through the Updates reaction role. Carl-bot posts welcome messages when members join. Never post license keys, mailbox passwords or verification codes.
+Join the [Forma Discord](https://discord.gg/MqwFSTEdkF) for official downloads, key instructions, announcements and support. Read the rules and react in the verify channel to unlock downloads, key instructions, community chat and voice. Update notifications are optional through the Updates reaction role. Carl-bot posts welcome messages when members join. Never post license keys, mailbox passwords or verification codes.
 
