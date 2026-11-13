@@ -26,4 +26,5 @@ This is an independent, unofficial modification. Windows publisher code signing 
 
 ## Community and support
 
-Join the [Forma Discord](https://discord.gg/MqwFSTEdkF) for official downloads, key instructions, announcements and support. Never post license keys, mailbox passwords or verification codes.
+Join the [Forma Discord](https://discord.gg/MqwFSTEdkF) for official downloads, key instructions, announcements and support. Read the rules and react in the verify channel to unlock community chat and voice. Update notifications are optional through the Updates reaction role. Carl-bot posts welcome messages when members join. Never post license keys, mailbox passwords or verification codes.
+
