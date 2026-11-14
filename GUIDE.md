@@ -2,9 +2,7 @@
 
 ## 1. Join and verify
 
-Join [Forma on Discord](https://discord.gg/MqwFSTEdkF), read **rules**, and react
-with the check mark in **verify**. Carl-bot gives you the **Member** role.
-Downloads, key instructions and the community then become visible.
+Join [Forma on Discord](https://discord.gg/MqwFSTEdkF), read **rules**, and select **Verify with Discord** in **verify**. Review and approve the Discord permissions to receive the **Member** role. Downloads, key instructions and the community then become visible. The permission to add you to servers is used by Forma only for the Forma server.
 The server owner and administrators always see all channels.
 
 ## 2. Download
