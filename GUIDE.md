@@ -9,9 +9,9 @@ The server owner and administrators always see all channels.
 
 ## 2. Download
 
-Install Qwen Desktop **1.0.3** first. Download **Forma-Setup-1.2.0.exe** from the
+Download the latest Forma installer from the
 [official releases](https://github.com/formaofficial/forma/releases/latest).
-Run the installer, then open Forma. Keep your existing Qwen data and backups.
+Run the installer, then open Forma. If Qwen is missing, Forma downloads and verifies the official compatible Qwen Desktop 1.0.3 installer during setup. Keep your existing Qwen data and backups.
 
 ## 3. Get your key
 
@@ -28,7 +28,7 @@ expires, repeat these steps on the same installation. Your chats are retained.
 
 ## 4. Install and launch Qwen
 
-Open Qwen's card in Forma, choose **Install**, wait for the completed status,
+Open Qwen's card in Forma, choose **Install Qwen and Forma** (or **Install integration** if Qwen is already installed), wait for the completed status,
 and choose **Launch**. Forma checks its bundled files before installing them.
 It backs up Qwen before applying the integration.
 
