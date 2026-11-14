@@ -10,9 +10,9 @@ Download the Windows installer from [Releases](https://github.com/formaofficial/
 
 ## Access
 
-A valid, installation-bound Forma key is required. Keys expire after 24 hours and are rechecked automatically. Qwen launched directly is also gated while the Forma integration is installed. A brief verified lease covers temporary connection problems; expiration locks access without deleting chats.
+A valid, installation-bound Forma key is required. Keys expire after 10 hours and are rechecked automatically. Qwen launched directly is also gated while the Forma integration is installed. A brief verified lease covers temporary connection problems; expiration locks access without deleting chats.
 
-To get a key, open **Get key inside Forma**, continue to Linkvertise, complete the checkpoint and paste the complete returned key into the app. Always start in Forma: the secure browser session binds the key to your installation. Keys last 24 hours. Invalid or missing checkpoint verification never issues a key.
+To get a key, open **Get key inside Forma**, continue to Linkvertise, complete the checkpoint and paste the complete returned key into the app. Always start in Forma: the secure browser session binds the key to your installation. Keys last 10 hours. Invalid or missing checkpoint verification never issues a key.
 
 ## Updates
 
