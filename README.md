@@ -6,7 +6,7 @@ Windows launcher for the Forma integration in Qwen Desktop.
 
 [Download](https://github.com/formaofficial/forma/releases/latest) · [Quick-start guide](GUIDE.md) · [Discord](https://discord.gg/MqwFSTEdkF)
 
-Download the Windows installer from [Releases](https://github.com/formaofficial/forma/releases/latest). Install Qwen Desktop 1.0.3 first, then use Forma to install the integration.
+Download the Windows installer from [Releases](https://github.com/formaofficial/forma/releases/latest). Forma downloads and verifies compatible Qwen Desktop 1.0.3 automatically if needed, then installs the integration.
 
 ## Access
 
