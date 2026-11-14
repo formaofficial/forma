@@ -25,6 +25,7 @@ key page. Copy the complete **FORMA1** key, paste it into Forma and select
 Always begin inside Forma: opening the generic website or Linkvertise link alone
 does not bind a new key to your installation. Keys last **10 hours**. When yours
 expires, repeat these steps on the same installation. Your chats are retained.
+Private admin keys do not have the ten-hour limit and bind to the first device that activates them. An internet connection is needed for automatic verification.
 
 ## 4. Install and launch Qwen
 
