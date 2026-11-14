@@ -23,7 +23,7 @@ key page. Copy the complete **FORMA1** key, paste it into Forma and select
 **Activate key**. Keep your key private.
 
 Always begin inside Forma: opening the generic website or Linkvertise link alone
-does not bind a new key to your installation. Keys last **24 hours**. When yours
+does not bind a new key to your installation. Keys last **10 hours**. When yours
 expires, repeat these steps on the same installation. Your chats are retained.
 
 ## 4. Install and launch Qwen
